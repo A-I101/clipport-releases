@@ -1,10 +1,8 @@
 # ClipPort · Android 安装包
 
-> ⚠️ **首个版本尚未发布**，下面的下载链接暂时打不开。版本发布后这行提示会去掉。
-
 跨设备剪贴板同步 —— 在一台设备上复制，在另一台上粘贴。内容离开设备前始终端到端加密。
 
-这个仓库**只存放 Android 安装包**，源码不在这里。iOS 版尚未发布。
+这个仓库**只存放安装包**，源码不在这里。目前提供 Android 版；macOS 版正在准备中，iOS 版尚未发布。
 
 ---
 
@@ -59,9 +57,6 @@ sha256sum -c SHA256SUMS.txt      # macOS 上若没有这个命令：shasum -a 25
 ---
 
 ## English
-
-> ⚠️ **No release published yet** — the download link below will not resolve until
-> the first build ships.
 
 ClipPort is a cross-device clipboard: copy on one device, paste on another.
 Everything is end-to-end encrypted before it leaves your device.
